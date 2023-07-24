@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/yuvarajkvr" target="blank"><img src="https://img.shields.io/twitter/follow/yuvarajkvr?logo=twitter&style=for-the-badge" alt="yuvarajkvr" /></a> </p>
 
+- 🔭 I’m currently working on [TODO Management](https://github.com/yuvarajchandirasekaran/TODO_Project)
+
 - 📝 I regularly write articles on [https://ivanyuvaraj.wordpress.com/](https://ivanyuvaraj.wordpress.com/)
 
 - 💬 Ask me about **javascript,php**
