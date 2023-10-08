@@ -9,6 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/yuvarajkvr" target="blank"><img src="https://img.shields.io/twitter/follow/yuvarajkvr?logo=twitter&style=for-the-badge" alt="yuvarajkvr" /></a> </p>
 
+- I'm on a mission to embrace life's adventures and spread positivity along the way. 🌈✨
+Passionate about Web development, I believe that every day is a new opportunity to learn, grow, and inspire others. 📚🌱
+Join me as we navigate this beautiful journey called life, one smile at a time. 😊✈️🌻
+#LifeEnthusiast #Optimist #Dreamer
+
 - 🔭 I’m currently working on [PRODUCTIVITY TOOL](https://github.com/vigneshshankardckap/Todo-Management)
 
 - 🌱 I’m currently learning **React**
