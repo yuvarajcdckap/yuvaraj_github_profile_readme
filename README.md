@@ -47,12 +47,4 @@ Join me as we navigate this beautiful journey called life, one smile at a time. 
             <span class="testdome-certificate-test-name">HTML/CSS</span>
             <span class="testdome-certificate-card-logo">TestDome<br>Certificate</span>
         </a>
-        <script>
-            var stylesheet = "https://www.testdome.com/content/source/stylesheets/embed.css",
-            link = document.createElement("link");
-            link.href = stylesheet,
-            link.type = "text/css",
-            link.rel = "stylesheet",
-            link.media = "screen,print",
-            document.getElementsByTagName("head")[0].appendChild(link);
-        </script>
+
