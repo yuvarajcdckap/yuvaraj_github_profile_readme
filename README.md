@@ -20,7 +20,7 @@ Join me as we navigate this beautiful journey called life, one smile at a time. 
 
 - 📝 I regularly write articles on [https://ivanyuvaraj.wordpress.com/](https://ivanyuvaraj.wordpress.com/)
 
-- 💬 Ask me about **javascript,php**
+- 💬 Ask me about **HTML, CSS, Javascript, PHP**
 
 - 📫 How to reach me **yuvarajcdckap@gmail.com**
 
