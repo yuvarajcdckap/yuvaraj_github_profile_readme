@@ -41,21 +41,4 @@ Join me as we navigate this beautiful journey called life, one smile at a time. 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvarajchandirasekaran&" alt="yuvarajchandirasekaran" /></p>
 
-<h3>My Acheivements</h3>
-<div>
-          <a href="https://www.testdome.com/certificates/d6408c005b554aab8f9c4398edcbc5c0" class="testdome-certificate-stamp gold">
-            <span class="testdome-certificate-name">Yuvaraj Chandiras...</span>
-            <span class="testdome-certificate-test-name">HTML/CSS</span>
-            <span class="testdome-certificate-card-logo">TestDome<br>Certificate</span>
-        </a>
-        <script>
-            var stylesheet = "https://www.testdome.com/content/source/stylesheets/embed.css",
-            link = document.createElement("link");
-            link.href = stylesheet,
-            link.type = "text/css",
-            link.rel = "stylesheet",
-            link.media = "screen,print",
-            document.getElementsByTagName("head")[0].appendChild(link);
-        </script>
-  
-</div>
+
