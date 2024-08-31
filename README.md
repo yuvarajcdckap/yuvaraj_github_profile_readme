@@ -22,7 +22,7 @@ Join me as we navigate this beautiful journey called life, one smile at a time. 
 
 - 💬 Ask me about **HTML, CSS, Javascript, PHP**
 
-- 📫 How to reach me **yuvarajcdckap@gmail.com**
+- 📫 How to reach me **yuvaraj0274@gmail.com**
 
 - 📄 Know about my experiences [https://yuvarajcdckap.hackerresume.io/f4ef8321-d4ad-4ae3-81cc-28e04af7cd7c](https://yuvarajcdckap.hackerresume.io/f4ef8321-d4ad-4ae3-81cc-28e04af7cd7c)
 
