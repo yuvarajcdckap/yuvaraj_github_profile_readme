@@ -1,5 +1,5 @@
 
-[![MasterHead](https://media.licdn.com/dms/image/D5616AQGHuIJBKD7oRw/profile-displaybackgroundimage-shrink_350_1400/0/1682945981628?e=1707955200&v=beta&t=UeiaIR8vW5IJ4jzXL6UepysswhG0OLQyexOzYHcUE-I)](https://www.linkedin.com/in/yuvaraj-chandirasekaran-kvr/)
+[![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQH08hH4iREefA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1705158024442?e=1730937600&v=beta&t=oVN1SbKeyQ6_Wr3qe5bMd9hZOcMqFR6AXDeD2q5zG-I)](https://www.linkedin.com/in/yuvaraj-chandirasekaran-kvr/)
 <h1 align="center">Hi 👋, I'm Yuvaraj Chandirasekaran</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
